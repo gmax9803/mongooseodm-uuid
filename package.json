@@ -1,0 +1,47 @@
+{
+  "name": "mongoose-uuid",
+  "version": "1.0.0",
+  "description": "A Custom Mongoose UUID SchemaType, to use for MongoDB Binary UUIDs",
+  "main": "build/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmax9803/mongoose-uuid.git"
+  },
+  "keywords": [
+    "mongoose",
+    "UUID",
+    "MUUID",
+    "MongoDB",
+    "NodeJS",
+    "Binary",
+    "UUID"
+  ],
+  "author": "Max (https://github.com/gmax9803)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmax9803/mongoose-uuid/issues"
+  },
+  "homepage": "https://github.com/gmax9803/mongoose-uuid#readme",
+  "dependencies": {
+    "@types/mongodb": "^3.5.25",
+    "@types/mongoose": "^5.7.32",
+    "@types/uuid": "^8.0.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.24",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "eslint": "^7.4.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "typescript": "^3.9.7"
+  }
+}
