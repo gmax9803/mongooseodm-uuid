@@ -1,8 +1,8 @@
 {
   "name": "mongooseodm-uuid",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Custom Mongoose UUID SchemaType, to use for MongoDB Binary UUIDs",
-  "main": "./build/src/index.js",
+  "main": "build/src/index.js",
   "scripts": {
     "test": "node ./test/example.test.js"
   },
