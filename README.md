@@ -68,6 +68,9 @@ const HavocPunishmentSchema = new Schema({
 * Store: https://cpukeychains.com (Buy some CPUKeychains!)
 * Github: [@gmax9803](https://github.com/gmax9803)
 
+<a href="https://etherscan.io/address/0xd3C43729AfE9751C29ff756531E105A76a8Ff9Cf"><img alt="0xd3C43729AfE9751C29ff756531E105A76a8Ff9Cf" src="https://img.shields.io/badge/Donate%20ETH-0xd3C43729AfE9751C29ff756531E105A76a8Ff9Cf-blue?style=flat-square"><a>
+
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gmax9803/mongoose-uuid/issues). You can also take a look at the [contributing guide](https://github.com/gmax9803/mongoose-uuid/blob/master/CONTRIBUTING.md).
