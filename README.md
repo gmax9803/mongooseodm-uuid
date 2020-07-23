@@ -1,16 +1,16 @@
 <h1 align="center">Welcome to mongooseodm-uuid 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/mongooseodm-uuid" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/mongooseodm-uuid.svg">
+    <img alt="Version" src="https://img.shields.io/npm/v/mongooseodm-uuid.svg?style=flat-square">
   </a>
   <a href="https://github.com/gmax9803/mongoose-uuid#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square" />
   </a>
   <a href="https://github.com/gmax9803/mongoose-uuid/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020.svg?style=flat-square" />
   </a>
   <a href="https://github.com/gmax9803/mongoose-uuid/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/gmax9803/mongooseodm-uuid" />
+    <img alt="License: ISC" src="https://img.shields.io/github/license/gmax9803/mongoose-uuid.svg?style=flat-square" />
   </a>
 </p>
 
